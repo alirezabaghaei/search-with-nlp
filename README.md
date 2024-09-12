@@ -2,7 +2,7 @@
 Search with NLP
 This project demonstrates how to perform natural language processing (NLP) tasks to search through PDF documents. The workflow includes installing necessary packages, processing documents, and applying NLP techniques for searching within the content.
 
-##Prerequisites
+Prerequisites
 
 Make sure you have the following packages installed:
 
